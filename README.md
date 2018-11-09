@@ -1,7 +1,7 @@
 # SNP-ML
 
 ## This repository is organized as follows:
-  /build-dataset <\b>
+  /build-dataset <br />
   /dataset
   * rf-knn.py
   * rf-svm.py
