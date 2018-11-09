@@ -7,6 +7,6 @@
   * rf-svm.py
 
 ## To run scripts:
-  python genotype-encoding.py
-  python rf-knn.py
-  python rf-svm.py
+  python genotype-encoding.py <br />
+  python rf-knn.py <br />
+  python rf-svm.py <br />
