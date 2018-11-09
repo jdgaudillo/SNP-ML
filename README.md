@@ -2,7 +2,9 @@
 
 ## This repository is organized as follows:
   /build-dataset <br />
-  /dataset
+    * genotype-encoding.py
+  /dataset <br />
+    * preprocessed_matrix.csv 
   * rf-knn.py
   * rf-svm.py
 
